@@ -1,0 +1,13 @@
+OPERATION: LOCKDOWN LICENSE INFOMATION
+THIS IS A VERY EARLY PREVIEW RELEASE. IT IS NOT BY ANY CIRCUMSTANCES COMPLETE AND IS MILES OFF.
+This is a little taste of the epic game we are coding! Hope you like it! :)
+Coded with Python3.5 for Windows x32
+This is an Open Source development. Feel free to go check out the code in the .py file.
+Music by Instrumental Core used under Monstercat Licensing for Monstercat music (end song) and Royalty free 
+music is used elsewere. (Dragoncast Radio)
+You MAY NOT redistrubute the code under your own name but by all means take it, edit it and be awesome :)
+If you have read up to here, well done. Your better than me at these installing things.
+PYTHON is a programing launguage under the creative commons license and may not be redistrubuted as PYTHON Shell and IDLE.
+To get python go to python.org and install the latest version (3.5)
+We are not liable for any incorrect infomation
+EPELEPSY WARNING - May contain flashing images of kinds.
